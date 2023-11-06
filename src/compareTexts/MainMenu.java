@@ -1,4 +1,4 @@
-package CompareTexts;
+package compareTexts;
 
 import models.Text;
 import models.TextsComparator;
