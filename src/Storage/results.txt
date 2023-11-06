@@ -1,0 +1,10 @@
+2023-11-06T15:57:02
+Words in 'Das Märchen - Goethe' is 10775
+Words in 'Old Surehand I - Karl May' is 36911
+Top words in 'Das Märchen - Goethe' is 
+[und, die, der, sie, sich]
+Top words in 'Old Surehand I - Karl May' is 
+[und, ich, der, die, nicht]
+Unique word in 'Das Märchen - Goethe' = 2688
+Unique word in 'Old Surehand I - Karl May' = 5342
+
